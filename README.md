@@ -9,6 +9,7 @@ The challenge as posted as part of [freecodeCamp's](https://www.freecodecamp.org
 - adding the required attributes (columns) for each table
 - manage the relationship between each table using foreign keys
 - applying correct constraints `UNIQUE`, `NOT NULL`, `PRIMARY KEY` and data types for each attribute (column)
+- populating all tables with data
 
 ## The Content of the Repo
 The dumped file from using the `psql` CLI tool commands to meet the above requirements
