@@ -12,4 +12,4 @@ The challenge as posted as part of [freecodeCamp's](https://www.freecodecamp.org
 - populating all tables with data
 
 ## The Content of the Repo
-The dumped file from using the `psql` CLI tool commands to meet the above requirements
+The dumped file from using the `psql` and `pg_dump` CLI tool commands to meet the above requirements
